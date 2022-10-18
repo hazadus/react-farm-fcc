@@ -1,9 +1,17 @@
 # FreeCodeCamp FARM tutorial -  React Frontend
 
+## Issues
+`/all-todos/` API requested too often.
+
 ## Dependencies
 ```bash
 $ npm install axios bootstrap
 ```
+
+## References
+- [useEffect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [Tip: Optimizing Performance by Skipping Effects](https://reactjs.org/docs/hooks-effect.html#tip-optimizing-performance-by-skipping-effects)
+- [Axios Post Example](https://axios-http.com/docs/post_example)
 
 ## Available Scripts
 
