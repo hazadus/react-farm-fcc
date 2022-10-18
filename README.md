@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# FreeCodeCamp FARM tutorial -  React Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Dependencies
+```bash
+$ npm install axios bootstrap
+```
 
 ## Available Scripts
 
